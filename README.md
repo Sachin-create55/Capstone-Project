@@ -1,8 +1,4 @@
-Here's a sample README file for your project:
-
-
-
- Credit Card Fraud Detection
+Credit Card Fraud Detection
 
 Project Overview
 
@@ -115,7 +111,3 @@ Future Work
 - Explore additional feature engineering techniques.
 - Experiment with different balancing techniques.
 - Develop a deployment pipeline for real-time fraud detection.
-
-
-
-This README file should provide clear guidance on the project structure, the steps involved in the analysis, and how to run the code.
